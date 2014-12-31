@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3401" systemVersion="13A603" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Brand" representedClassName="BrandDB" syncable="YES">
+        <attribute name="brand" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="order" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="flossRel" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Floss" inverseName="brandRel" inverseEntity="Floss" syncable="YES"/>
+    </entity>
+    <entity name="Floss" representedClassName="FlossDB" syncable="YES">
+        <attribute name="brand" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="detailedLabel" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fileName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="primaryLabel" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="quantity" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="shoppingQuantity" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="sort" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="brandRel" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Brand" inverseName="flossRel" inverseEntity="Brand" syncable="YES"/>
+    </entity>
+    <entity name="Project" representedClassName="ProjectDB" syncable="YES">
+        <attribute name="desc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="projectFlossRel" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="ProjectFloss" inverseName="projectRel" inverseEntity="ProjectFloss" syncable="YES"/>
+    </entity>
+    <entity name="ProjectFloss" representedClassName="ProjectFlossDB" syncable="YES">
+        <attribute name="brand" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="detailedLabel" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fileName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="primaryLabel" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="project" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="quantity" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="projectRel" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Project" inverseName="projectFlossRel" inverseEntity="Project" syncable="YES"/>
+    </entity>
+    <entity name="System" representedClassName="System" syncable="YES">
+        <attribute name="last_device" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="last_update" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="updated" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="version" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Brand" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Floss" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Project" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="ProjectFloss" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="System" positionX="0" positionY="0" width="0" height="0"/>
+    </elements>
+</model>

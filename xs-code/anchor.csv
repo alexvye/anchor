@@ -1,0 +1,466 @@
+anchor,a1,Snow White,0
+anchor,a2,White,0
+anchor,a6,Salmon Very Light,0
+anchor,a8,Salmon Light,0
+anchor,a9,Salmon Medium Light,0
+anchor,a10,Salmon Medium,0
+anchor,a11,Salmon Medium Dark,0
+anchor,a13,Salmon Dark,0
+anchor,a19,NODESC,0
+anchor,a20,Burgundy Med Dark,0
+anchor,a22,Burgundy Very Dark,0
+anchor,a23,Carnation Ultra Light,0
+anchor,a24,Carnation Very Light,0
+anchor,a25,Carnation Light,0
+anchor,a26,Carnation Medium Light,0
+anchor,a27,Carnation Medium,0
+anchor,a28,Carnation Medium Dark,0
+anchor,a29,Carnation Dark,0
+anchor,a31,Blush Light,0
+anchor,a33,Blush Medium,0
+anchor,a35,Blush Dark,0
+anchor,a36,Blossem Pink Light,0
+anchor,a38,Blossem Pink Dark,0
+anchor,a39,Blossem Pink Dk,0
+anchor,a40,Carmine Rose Light,0
+anchor,a41,Carmine Rose Medium Light,0
+anchor,a42,Carmine Rose Medium,0
+anchor,a43,Carmine Rose Medium Dark,0
+anchor,a44,Dark Rose,0
+anchor,a45,Carmine Rose Dark,0
+anchor,a46,Crimson Red,0
+anchor,a47,Carmine Red,0
+anchor,a48,China Rose Very Light,0
+anchor,a49,China Rose Light,0
+anchor,a50,China Rose Medium,0
+anchor,a52,China Rose Medium Dark,0
+anchor,a54,Rose Dark China,0
+anchor,a55,Beauty Rose Light,0
+anchor,a57,Beauty Rose Medium,0
+anchor,a59,China Rose,0
+anchor,a60,Magenta Light,0
+anchor,a62,Magenta Medium,0
+anchor,a63,Magenta Dark,0
+anchor,a65,Rose Very Dark Antique,0
+anchor,a66,Raspberry Light,0
+anchor,a68,Raspberry Medium Light,0
+anchor,a69,Very Dark Dusty Rose,0
+anchor,a70,Ultra Very Dark Dusty Rose,0
+anchor,a72,Raspberry Very Dark,0
+anchor,a73,Antique Rose Very Light,0
+anchor,a74,Antique Rose Light,0
+anchor,a75,Antique Rose Medium Light,0
+anchor,a76,Antique Rose Medium,0
+anchor,a77,Antique Rose Medium Dark,0
+anchor,a78,Antique Rose Dark,0
+anchor,a85,Orchid Light,0
+anchor,a86,Orchid Medium Light,0
+anchor,a87,Orchid Medium,0
+anchor,a88,Orchid Medium Dark,0
+anchor,a89,Orchid Dark,0
+anchor,a90,Plum Light,0
+anchor,a92,Plum Medium,0
+anchor,a94,Plum Dark,0
+anchor,a95,Violet Very Light,0
+anchor,a96,Violet Light,0
+anchor,a97,Violet Medium Light,0
+anchor,a98,Violet Medium,0
+anchor,a99,Violet,0
+anchor,a100,Violet Medium Dark,0
+anchor,a101,Violet Dark,0
+anchor,a102,Violet Very Dark,0
+anchor,a103,Very Light Plum,0
+anchor,a108,Lavender Light,0
+anchor,a109,Lavender Medium Light,0
+anchor,a110,Lavender Medium,0
+anchor,a111,Medium Purple,0
+anchor,a112,Purple,0
+anchor,a117,Thistle Light,0
+anchor,a118,Thistle Medium,0
+anchor,a119,Thistle Dark,0
+anchor,a120,Bleuberry Light,0
+anchor,a121,Bleuberry Medium Light,0
+anchor,a122,Medium Bleuberry,0
+anchor,a123,Bleuberry Dark,0
+anchor,a127,Indigo,0
+anchor,a128,Cobalt Bleu Light,0
+anchor,a129,Cobalt Bleu,0
+anchor,a130,Cobalt Bleu Medium Light,0
+anchor,a131,Cobalt Bleu Medium,1
+anchor,a132,Cobalt Bleu Medium Dark,1
+anchor,a133,Cobalt Bleu Dark,1
+anchor,a134,Cobalt Bleu Very Dark,1
+anchor,a136,Wedgewood Light,1
+anchor,a137,Wedgewood Medium,1
+anchor,a139,Wedgewood Dark,1
+anchor,a140,Copen Bleu Light,1
+anchor,a142,Copen Bleu Medium,1
+anchor,a143,Copen Bleu Dark,1
+anchor,a144,Delft Bleu Very Light,1
+anchor,a145,Light Delft Bleu,1
+anchor,a146,Delft Bleu,1
+anchor,a147,Delft Bleu Medium Light,1
+anchor,a148,Delft Bleu Medium,1
+anchor,a149,Delft Bleu Medium Dark,1
+anchor,a150,Delft Bleu Dark,1
+anchor,a152,Delft Bleu Very Dark,1
+anchor,a158,Sapphire Very Light,1
+anchor,a159,Pale Blue,1
+anchor,a160,Sapphire Medium Light,1 
+anchor,a161,Sapphire Medium,1
+anchor,a162,Sapphire Medium Dark,1
+anchor,a164,Sapphire Dark,1
+anchor,a167,Surf Bleu Very Light,1
+anchor,a168,Surf Bleu Light,1
+anchor,a169,Surf Bleu Medium,1
+anchor,a170,Surf Bleu Dark,1
+anchor,a175,Ocean Bleu Light,1
+anchor,a176,Ocean Bleu,1
+anchor,a177,Ocean Bleu Medium,1
+anchor,a178,Ocean Bleu Dark,1
+anchor,a185,Sea Green Light,1
+anchor,a186,Sea Green Medium Light,1
+anchor,a187,Sea Green Medium,1
+anchor,a188,Sea Green Medium Dark,1
+anchor,a189,Sea Green Dark,1
+anchor,a203,Mint Green Light,1
+anchor,a204,Mint Green Medium,1
+anchor,a205,Mint Green Dark,1
+anchor,a206,Spruce Light,1
+anchor,a208,Spruce Medium Light,1
+anchor,a209,Spruce,1
+anchor,a210,Spruce Medium,1
+anchor,a211,Spruce Medium DK,1
+anchor,a212,Spruce Dark,1
+anchor,a213,Juniper Very Light,1
+anchor,a214,Juniper Light,1
+anchor,a215,Juniper Medium Light,1
+anchor,a216,Juniper Medium,1
+anchor,a217,Juniper Medium Dark,1
+anchor,a218,Juniper Dark,1
+anchor,a225,Emerald Light,1
+anchor,a226,Emerald Medium Light,1
+anchor,a227,Emerald Medium,1
+anchor,a228,Emerald Medium Dark,1
+anchor,a229,Emerald Dark,1
+anchor,a230,Mint Green vy dk,1
+anchor,a231,Rose Grey Light,1
+anchor,a232,Rose Grey Medium,1
+anchor,a233,Rose Grey,1
+anchor,a234,Charcoal Grey Light,1
+anchor,a235,Charcoal Grey Medium,1
+anchor,a236,Charcoal Grey,1
+anchor,a238,Medium Spring Dark Grey,1
+anchor,a239,Spring Grey Dark,1
+anchor,a240,Grass Green Light,1
+anchor,a241,Grass Green,1
+anchor,a242,Grass Green Medium Light,1
+anchor,a243,Grass Green Medium,1
+anchor,a244,Grass Green Medium Dark,1
+anchor,a245,Grass Green Dark,1
+anchor,a246,Grass Green Very Dark,1
+anchor,a253,Parrot Green Very Light,1
+anchor,a254,Parrot Green Light,1
+anchor,a255,Parrot Green Medium Light,1
+anchor,a256,Parrot Green Medium,1
+anchor,a257,Parrot Green Medium Dark,1
+anchor,a258,Parrot Green Dark,1
+anchor,a259,Loden Green Very Light,1
+anchor,a260,Loden Green Light,1
+anchor,a261,Loden Green Medium Light,2
+anchor,a262,Loden Green Medium,2
+anchor,a263,Loden Green Dark,2
+anchor,a264,Avocado Very Light,2
+anchor,a265,Avocado Light,2
+anchor,a266,Light Avocado Medium,2
+anchor,a267,Avocado Medium,2
+anchor,a268,Avocado Medium Dark,2
+anchor,a269,Avocado Dark,2
+anchor,a271,Soft Carnation,2
+anchor,a273,Stone Grey Dark,2
+anchor,a274,Bleu Mist Light,2
+anchor,a275,Citrus Ultra Light,2
+anchor,a276,Pearl,2
+anchor,a277,Desert Very Dark,2
+anchor,a278,Olive Green Light,2
+anchor,a279,Olive Green Medium Light,2
+anchor,a280,Olive Green Medium,2
+anchor,a281,Olive Green Dark,2
+anchor,a288,Canary Yellow Light,2
+anchor,a289,Canary Yellow Medium Light,2
+anchor,a290,Canary Yellow Medium,2
+anchor,a291,Canary Yellow Dark,2
+anchor,a292,Jonquil Very Light,2
+anchor,a293,Jonquil Light,2
+anchor,a295,Jonquil Medium Light,2
+anchor,a297,Jonquil Medium,2
+anchor,a298,Jonquil Dark,2
+anchor,a300,Citrus Light,2
+anchor,a301,Citrus,2
+anchor,a302,Citrus Medium Light,2
+anchor,a303,Citrus Medium,2
+anchor,a304,Citrus Dark,2
+anchor,a305,Topaz Light,2
+anchor,a306,Topaz Medium Light,2
+anchor,a307,Topaz Medium,2
+anchor,a308,Topaz Medium Dark,2
+anchor,a309,Topaz Dark,2
+anchor,a310,Topaz Very Dark,2
+anchor,a311,Tangerine Very Light,2
+anchor,a313,Tangerine Light,2
+anchor,a314,Tangerine Medium Light,2
+anchor,a316,Tangerine Dark,2
+anchor,a323,Apricot Light,2
+anchor,a324,Apricot Medium,2
+anchor,a326,Apricot Dark,2
+anchor,a328,Melon Light,2
+anchor,a329,Melon Medium,2
+anchor,a330,Melon Dark Medium,2
+anchor,a332,Blaze Light,2
+anchor,a333,Blaze Medium Light,2
+anchor,a334,Blaze Medium,2
+anchor,a335,Blaze Dark,2
+anchor,a336,Terra Cotta Light,2
+anchor,a337,Terra Cotta Medium Light,2
+anchor,a338,Terra Cotta,2
+anchor,a339,Terra Cotta Medium,2
+anchor,a340,Terra Cotta Medium Dark,2
+anchor,a341,Terra Cotta Dark,2
+anchor,a342,Lilac Light,2
+anchor,a343,Slate Bleu,2
+anchor,a347,Bark Light,2
+anchor,a349,Bark Medium,2
+anchor,a351,Bark Medium Dark,2
+anchor,a352,Bark Dark,2
+anchor,a355,Mocha Medium,2
+anchor,a357,Mocha Dark,2
+anchor,a358,Coffee,2
+anchor,a359,Coffee Medium,2
+anchor,a360,Coffee Dark,2
+anchor,a361,Nutmeg Light,2
+anchor,a362,Nutmeg Medium Light,2
+anchor,a363,Nutmeg Medium,2
+anchor,a365,Nutmeg Dark,2
+anchor,a366,Spice vy lt,2
+anchor,a367,Spice lt,2
+anchor,a368,Spice med lt,2
+anchor,a210,Spice medium,2
+anchor,a370,Spice med dk,2
+anchor,a371,Spice dk,2
+anchor,a372,Dessert lt,2
+anchor,a373,Dessert Medium,2
+anchor,a374,Dessert Medium Dark,2
+anchor,a375,Dessert Dark,2
+anchor,a376,Fawn Light,2
+anchor,a378,Fawn Medium,2
+anchor,a379,Fawn Dark,2
+anchor,a380,Fudge,2
+anchor,a381,Fudge Medium,2
+anchor,a382,Fudge Dark,3
+anchor,a386,Citrus Very Light,3
+anchor,a387,Ecru,3
+anchor,a388,Ecru Medium,3
+anchor,a390,Linen Light,3
+anchor,a391,Linen,3
+anchor,a392,Linen Medium,3
+anchor,a393,Linen Dark,3
+anchor,a397,Grey Light,3
+anchor,a398,Grey,3
+anchor,a399,Grey Medium Light,3
+anchor,a400,Grey Medium,3
+anchor,a401,Grey Dark,3
+anchor,a403,Black,3
+anchor,a410,Electric Bleu Dark,3
+anchor,a433,Electric Bleu,3
+anchor,a681,Forest Dark,3
+anchor,a683,Turf Green,3
+anchor,a778,Flesh Light,3
+anchor,a779,Bleu Mist Medium Dark,3
+anchor,a830,Sierra Very Light,3
+anchor,a831,Sierra Light,3
+anchor,a832,Sierra Medium,3
+anchor,a842,Fern Green Light,3
+anchor,a843,Fern Green,3
+anchor,a844,Fern Green Medium,3
+anchor,a845,Fern Green Medium Dark,3
+anchor,a846,Fern Green Dark,3
+anchor,a847,Bleu Mist Very Light,3
+anchor,a848,Bleu Mist,3
+anchor,a849,Bleu Mist Medium Light,3
+anchor,a850,Bleu Mist Medium,3
+anchor,a851,Bleu Mist Dark,3
+anchor,a852,Turf Very Light,3
+anchor,a853,Turf Light,3
+anchor,a854,Turf Medium Light,3
+anchor,a855,Turf Medium,3
+anchor,a856,Turf Dark,3
+anchor,a858,Laurel Green Light,3
+anchor,a859,Laurel Green,3
+anchor,a860,Laurel Green Medium Light,3
+anchor,a861,Laurel Green Medium,3
+anchor,a862,Laurel Green Dark,3
+anchor,a868,Flesh Medium,3
+anchor,a869,Amethyst Light,3
+anchor,a870,Amethyst,3
+anchor,a871,Amethyst Medium Light,3
+anchor,a872,Amethyst Medium,3
+anchor,a873,Amethyst Dark,3
+anchor,a874,Saffron Medium,3
+anchor,a875,Pine Light,3
+anchor,a876,Pine,3
+anchor,a877,Pine Medium,3
+anchor,a878,Pine Medium Dark,3
+anchor,a879,Pine Dark,3
+anchor,a880,Copper Light,3
+anchor,a881,Copper,3
+anchor,a882,NODESC,3
+anchor,a883,Copper Medium,3
+anchor,a884,Copper Dark,3
+anchor,a885,Sand Stone Light,3
+anchor,a886,Sand Stone,3
+anchor,a887,Sand Stone Medium Light,3
+anchor,a888,Sand Stone Medium,3
+anchor,a889,Sand Stone Medium Dark,4
+anchor,a890,Light Brass,4
+anchor,a891,Brass,4
+anchor,a892,Rose Wine lt,4
+anchor,a893,Rose Wine,4
+anchor,a894,Rose Wine med lt,4
+anchor,a895,Rose Wine Medium,4
+anchor,a896,Rose Wine Dark,4
+anchor,a897,Rose Wine Very Dark,4
+anchor,a898,Sierra,4
+anchor,a899,Tawny Light,4
+anchor,a900,Pewter Light,4
+anchor,a901,Brass Medium,4
+anchor,a903,Tawny Medium,4
+anchor,a904,Tawny,4
+anchor,a905,Tawny Dark,4
+anchor,a906,Brass Dark,4
+anchor,a907,Saffron Dark,4
+anchor,a914,Flesh Medium Dark,4
+anchor,a920,Denim Light,4
+anchor,a921,Denim Medium,4
+anchor,a922,Denim Dark,4
+anchor,a923,Emerald Very Dark,4
+anchor,a924,Olive Green Very Dark,4
+anchor,a925,Tangerine Very Dark,4
+anchor,a926,Ecru Very Light,4
+anchor,a928,Larkspur Light,4
+anchor,a933,Fawn Very Light,4
+anchor,a936,Fawn Very Dark,4
+anchor,a939,Stormy Bleu Medium,4
+anchor,a940,Stormy Bleu Medium Dark,4
+anchor,a941,Stormy Bleu Very Dark,4
+anchor,a942,Wheat Light,4
+anchor,a943,Wheat Medium,4
+anchor,a944,Wheat Dark,4
+anchor,a945,Harvest Medium,4
+anchor,a956,Harvest Light,4
+anchor,a968,Wineberry Light,4
+anchor,a969,Wineberry Medium,4
+anchor,a970,Wineberry Medium Dark,4
+anchor,a972,Wineberry Dark,4
+anchor,a975,Sea Bleu Light,4
+anchor,a976,Sea Bleu Medium Light,4
+anchor,a977,Sea Bleu Medium,4
+anchor,a978,Sea Bleu Medium Dark,4
+anchor,a979,Sea Bleu Dark,4
+anchor,a1001,Antique Gold Medium,4
+anchor,a1002,Antique Gold Light,4
+anchor,a1003,Amberglow,4
+anchor,a1004,Apricot Very Dark,4
+anchor,a1005,Cherry Red Medium,4
+anchor,a1006,Cherry Red,4
+anchor,a1007,Chicory Dark,4
+anchor,a1008,Chicory Medium,4
+anchor,a1009,Copper Very Light,4
+anchor,a1010,Cinnamon Very Light,4
+anchor,a1011,Flesh Very Light,4
+anchor,a1012,Chickory Light,4
+anchor,a1013,Brick Medium,4
+anchor,a1014,Brick Very Dark,4
+anchor,a1015,Brick Ultra Dark,4
+anchor,a1016,Antique Mauve Light,4		   
+anchor,a1017,Antique Mauve Medium,5
+anchor,a1018,Antique Mauve Dark,5
+anchor,a1019,Antique Mauve Very Dark,5
+anchor,a1020,Peony Very Light,5
+anchor,a1021,Peony Light,5
+anchor,a1022,Peony Medium Light,5
+anchor,a1023,Peony,5
+anchor,a1024,Peony Medium,5
+anchor,a1025,Peony Medium Dark,5
+anchor,a1026,Wineberry Very Light,5
+anchor,a1027,Rose Wine Medium Dark,5
+anchor,a1028,Raspberry Medium Dark,5
+anchor,a1029,Antique Rose Ultra Dark,5
+anchor,a1030,Thistle Medium Dark,5
+anchor,a1031,Antique Bleu Ultra Light,5
+anchor,a1032,Antique Bleu Very Light,5
+anchor,a1033,Antique Bleu Light,5
+anchor,a1034,Antique Bleu Medium,5
+anchor,a1035,Antique Bleu Dark,5
+anchor,a1036,Antique Bleu Very Dark,5
+anchor,a1037,Sea Bleu Very Light,5
+anchor,a1038,Glacier Bleu Medium,5
+anchor,a1039,Glacier Bleu Medium Dark,5
+anchor,a1040,Pewter Medium,5
+anchor,a1041,Stone Grey Very Dark,5
+anchor,a1042,Pine Very Light,5
+anchor,a1043,Grass Green Very Light,5
+anchor,a1044,Grass Green Ultra Dark,5
+anchor,a1045,Toast Light,5
+anchor,a1046,Toast,5
+anchor,a1047,Cinnamon Light,5
+anchor,a1048,Red Cinnamon,5
+anchor,a1049,Cinnamon,5
+anchor,a1050,Mocha Brown Dark,5
+anchor,a1060,Teal Ultra Light,5
+anchor,a1062,Teal Very Light,5
+anchor,a1064,Teal Light,5
+anchor,a1066,Teal Medium,5
+anchor,a1068,Teal,5
+anchor,a1070,Jade Light,5
+anchor,a1072,Jade Medium Light,5
+anchor,a1074,Jade Medium,5
+anchor,a1076,Jade,5
+anchor,a1080,Taupe Light,5
+anchor,a1082,Taupe Medium Light,5
+anchor,a1084,Taupe,5
+anchor,a1086,Taupe Dark,5
+anchor,a1088,Taupe Very Dark,5
+anchor,a1089,Electric Bleu Medium,5
+anchor,a1090,Electric Bleu Light,5
+anchor,a1092,Sea Green Very Light,5
+anchor,a1094,Beauty Rose Very Light,5
+anchor,a1096,Slate Bleu Light,5
+anchor,a1098,Crimson Red Light,5
+anchor,a1201,Pink Fluff,5
+anchor,a1202,Peach Glow,5
+anchor,a1203,Coral Reef,5
+anchor,a1204,Cherry Supreme,5
+anchor,a1206,Candy Apple,5
+anchor,a1207,Royal Plum,5
+anchor,a1209,Lilac Mist,5
+anchor,a1210,Royal Spectrum,5
+anchor,a1211,Sea Spray,5
+anchor,a1212,Blue Haze,5
+anchor,a1213,Creme de Menthe,5
+anchor,a1215,Irish Mist,5
+anchor,a1216,Celery Seed,5
+anchor,a1217,Lemon Meringue,5
+anchor,a1218,Palomino,5
+anchor,a1220,Butterscotch,5
+anchor,a1305,Sunrise,5
+anchor,a1315,Flame,5
+anchor,a1325,Iris,5
+anchor,a1335,Rainbow,5
+anchor,a1345,Blue Hawaii,5
+anchor,a1355,Mountain Stream,5
+anchor,a4146,Flesh Medium Light,5
+anchor,a5975,Brick Dark,5
+anchor,a8581,Stone Grey,5
+anchor,a9046,Christmas Red,5
+anchor,a9159,Glacier Bleu,5
+anchor,a9575,Bleu Medium Light,5

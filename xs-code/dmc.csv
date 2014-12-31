@@ -1,0 +1,660 @@
+dmc,e168,Silver,7
+dmc,e301,Copper,7
+dmc,e317,Titanium,7
+dmc,e677,White Gold,7
+dmc,e3821,Light Gold,7
+dmc,e3852,Dark Gold,7
+dmc,e130,Gemstones,7 
+dmc,e135,Golden Dawn,7
+dmc,e155,Amethyst,7 
+dmc,e316,Pink Amethyst,7
+dmc,e321,Red Ruby,7
+dmc,e334,Blue Topaz,7 
+dmc,e699,Green Emerald,7 
+dmc,e703,Light Green Emerald,7
+dmc,e718,Pink Garnet,7     
+dmc,e815,Dark Red Ruby,7
+dmc,e825,Blue Sapphire,7
+dmc,e3837,Purple Ruby,7 
+dmc,e3843,Light Blue Sapphire,7
+dmc,e3849,Aquamarine Blue,7 
+dmc,e310,Ebony,7
+dmc,e415,Pewter,7
+dmc,e436,Golden Oak,7
+dmc,e898,Dark Oak,7
+dmc,e3685,Rosewoord,7
+dmc,e211,Lilac,7 
+dmc,e746,Cream,7
+dmc,e747,Baby Blue,7 
+dmc,e818,Soft Pink,7 
+dmc,e966,Lime,7 
+dmc,e967,Soft Peach,7
+dmc,e3747,Sky Blue,7 
+dmc,e5200,White,7 
+dmc,e980,Neon Yellow,7 
+dmc,e990,Neon Green,7 
+dmc,e940,Glow-in-the-dark,7
+dmc,4000,Espresso,6 
+dmc,4010,Winter Sky,6 
+dmc,4015,Stormy Skys,6
+dmc,4017,Polar Ice,6
+dmc,4020,Tropical Waters,6 
+dmc,4022,Mediterranean Sea,6
+dmc,4025,Caribbean Bay,6
+dmc,4030,Monet's Garden,6 
+dmc,4040,Water Lillies,6
+dmc,4042,Very Merry,6
+dmc,4045,Evergreen Forest,6
+dmc,4047,Emerald Isle,6
+dmc,4050,Roaming Pastures,6
+dmc,4060,Weeping Willow,6 
+dmc,4065,Morning Meadow,6
+dmc,4066,Amazon Moss,6
+dmc,4068,Camouflage,6
+dmc,4069,Margarita,6
+dmc,4070,Autumn Leaves,6
+dmc,4072,Toasted Almond,6
+dmc,4073,Buttercup,6
+dmc,4075,Wheat Field,6
+dmc,4077,Morning Sunshine,6 
+dmc,4080,Daffodil Fields,6
+dmc,4090,Golden Oasis,6 
+dmc,4095,Cupcakes,6
+dmc,4100,Summer Breeze,6
+dmc,4110,Sunrise,6 
+dmc,4120,Tropical Sunset,6
+dmc,4122,Fall Harvest,6
+dmc,4124,Bonfire,6 
+dmc,4126,Desert Canyon,6
+dmc,4128,Gold Coast,6 
+dmc,4129,Peanut Brittle,6
+dmc,4130,Chilean Sunset,6
+dmc,4135,Terra Cotta,6
+dmc,4140,Driftwood,6 
+dmc,4145,Sand Dune,6
+dmc,4150,Desert Sand,6
+dmc,4160,Glistening Pearl,6 
+dmc,4170,Whispering Wind,6
+dmc,4180,Rose Petals,6 
+dmc,4190,Ocean Coral,6
+dmc,4200,Wild Fire,6
+dmc,4205,Caliente,6
+dmc,4210,Radiant Ruby,6
+dmc,4211,Azaliea,6
+dmc,4212,Mixed Berries,6
+dmc,4214,Cotton Candy,6
+dmc,4215,Northern Lights,6 
+dmc,4220,Lavender Fields,6
+dmc,4230,Crystal Waters,6 
+dmc,4235,Artic Sea,6
+dmc,4237,Laguna Blue,6
+dmc,4240,Mid Summer Nights,6
+dmc,4245,Mystical Midnight,6
+dmc,4250,Berry Parfait,6
+dmc,4255,Orchid,6
+dmc,4260,Enchanted,6
+dmc,4265,Purple Pansy,6
+dmc,White,White,0 
+dmc,Ecru,Ecru,0 
+dmc,B5200,Snow White,0 
+dmc,150,Ultra V DK Dusty Rose,0
+dmc,151,V LT Dusty Rose,0 
+dmc,152,MD LT Shell Pink,0 
+dmc,153,V LT Violet,0 
+dmc,154,V DK Grape,0 
+dmc,155,MD DK Blue Violet,0
+dmc,156,MD LT Blue Violet,0 
+dmc,157,V LT Cornflower Blue,0 
+dmc,158,MD V DK Cornflower Blue,0 
+dmc,159,LT Gray Blue,0 
+dmc,160,MD Gray Blue,0 
+dmc,161,Gray Blue,0 
+dmc,162,Ultra V LT Blue,0 
+dmc,163,MD Celadon Green,0 
+dmc,164,LT Forest Green,0 
+dmc,165,V LT Moss Green,0 
+dmc,166,MD LT Moss Green,0 
+dmc,167,V DK Yellow Beige,0 
+dmc,168,V LT Pewter,0 
+dmc,169,LT Pewter,0 
+dmc,208,V DK LaVender,0 
+dmc,209,DK LaVender,0 
+dmc,210,MD LaVender,0 
+dmc,211,LT LaVender,0 
+dmc,221,V DK Shell Pink,0 
+dmc,223,LT Shell Pink,0 
+dmc,224,V LT Shell Pink,0 
+dmc,225,Ultra V LT Shell Pink,0 
+dmc,300,V DK Mahogany,0
+dmc,301,MD Mahogany,0 
+dmc,304,MD Red,0 
+dmc,307,Lemon,0 
+dmc,309,DK Rose,0 
+dmc,310,Black,0 
+dmc,311,MD Navy Blue,0 
+dmc,312,V DK Baby Blue,0 
+dmc,315,MD DK Antique Mauve,0 
+dmc,316,MD Antique MauVe,0 
+dmc,317,Pewter Gray,0 
+dmc,318,LT Steel Gray,0 
+dmc,319,V DKPistachio Green,0 
+dmc,320,MD Pistachio Green,0 
+dmc,321,Red,0 
+dmc,322,DK DK Baby Blue,0 
+dmc,326,V DK Rose,0 
+dmc,327,DK Violet,0 
+dmc,333,V DK Blue Violet,0 
+dmc,334,MD Baby Blue,0 
+dmc,335,Rose,0 
+dmc,336,NaVy Blue,0 
+dmc,340,MD Blue Violet,0 
+dmc,341,LT Blue Violet,0 
+dmc,347,V DK Salmon,0 
+dmc,349,DK Coral,0
+dmc,350,MD Coral,0 
+dmc,351,Coral,0 
+dmc,352,LT Coral,0 
+dmc,353,Peach,0 
+dmc,355,DK Terra Cotta,0 
+dmc,356,MD Terra Cotta,0 
+dmc,367,DK Pistachio Green,0 
+dmc,368,LT Pistachio Green,0 
+dmc,369,V LT Pistachio Green,0 
+dmc,370,MD Mustard,0
+dmc,371,Mustard,0 
+dmc,372,LT Mustard,0 
+dmc,400,DK Mahogany,0 
+dmc,402,V LT Mahogany,0 
+dmc,407,DK Desert Sand,0 
+dmc,413,DK Pewter Gray,0 
+dmc,414,DK Steel Gray,0 
+dmc,415,Pearl Gray,0 
+dmc,420,DK Hazelnut Brown,0 
+dmc,422,LT Hazelnut Brown,0 
+dmc,433,MD Brown,0 
+dmc,434,LT Brown,0 
+dmc,435,V LT Brown,1 
+dmc,436,Tan,1 
+dmc,437,LT Tan,1 
+dmc,444,DK Lemon,1 
+dmc,445,LT Lemon,1 
+dmc,451,DK Shell Gray,1 
+dmc,452,MD Shell Gray,1 
+dmc,453,LT Shell Gray,1 
+dmc,469,AVocado Green,1 
+dmc,470,LT AVocado Green,1 
+dmc,471,V LT AVocado Green,1 
+dmc,472,Ultra LT AVocado Green,1
+dmc,498,DK Red,1
+dmc,500,V DK Blue Green,1
+dmc,501,DK Blue Green,1
+dmc,502,Blue Green,1
+dmc,503,MD Blue Green,1
+dmc,504,V LT Blue Green,1
+dmc,505,Jade Green,1
+dmc,517,DK Wedgewood,1
+dmc,518,LT Wedgewood,1
+dmc,519,Sky Blue,1
+dmc,520,DK Fern Green,1
+dmc,522,Fern Green,1
+dmc,523,LT Fern Green,1
+dmc,524,V LT Fern Green,1
+dmc,535,V LT Ash Gray,1
+dmc,543,Ultra V LT Beige Brown,1
+dmc,550,V DK Violet,1
+dmc,552,MD Violet,1
+dmc,553,Violet,1
+dmc,554,LT Violet,1
+dmc,561,V DK Jade,1
+dmc,562,MD Jade,1
+dmc,563,LT Jade,1
+dmc,564,V LT Jade,1
+dmc,580,DK Moss Green,1
+dmc,581,Moss Green,1
+dmc,597,Turquoise,1
+dmc,598,LT Turquoise,1
+dmc,600,V DK Cranberry,1
+dmc,601,DK Cranberry,1
+dmc,602,MD Cranberry,1
+dmc,603,Cranberry,1
+dmc,604,LT Cranberry,1
+dmc,605,V LT Cranberry,1
+dmc,606,Bright Orange-Red,1
+dmc,608,Bright Orange,1
+dmc,610,DK Drab Brown,1
+dmc,611,Drab Brown,1
+dmc,612,LT Drab Brown,1
+dmc,613,V LT Drab Brown,1
+dmc,632,Ultra V DK Desert Sand,1
+dmc,640,V DK Beige Gray,1
+dmc,642,DK Beige Gray,1
+dmc,644,MD Beige Gray,1
+dmc,645,V DK Beaver Gray,1 
+dmc,646,DK Beaver Gray,1
+dmc,647,MD Beaver Gray,1 
+dmc,648,LT Beaver Gray,1 
+dmc,666,Bright Red,1 
+dmc,676,LT Old Gold,1 
+dmc,677,V LT Old Gold,1 
+dmc,680,DK Old Gold,1 
+dmc,699,Green,1 
+dmc,700,Bright Green,1 
+dmc,701,LT Green,1 
+dmc,702,Kelly Green,1 
+dmc,703,Chartreuse,1 
+dmc,704,Bright Chartreuse,1 
+dmc,712,Cream,1 
+dmc,718,Plum,1 
+dmc,720,DK Orange Spice,1 
+dmc,721,MD Orange Spice,1 
+dmc,722,LT Orange Spice,1 
+dmc,725,MD LT Topaz,1 
+dmc,726,LT Topaz,1 
+dmc,727,V LT Topaz,1 
+dmc,728,Topaz,1 
+dmc,729,MD Old Gold,1 
+dmc,730,V DK Olive Green,2 
+dmc,731,DK Olive Green,2 
+dmc,732,Olive Green,2 
+dmc,733,MD Olive Green,2 
+dmc,734,LT Olive Green,2 
+dmc,738,V LT Tan,2 
+dmc,739,Ultra V LT Tan,2 
+dmc,740,Tangerine,2 
+dmc,741,MD Tangerine,2 
+dmc,742,LT Tangerine,2 
+dmc,743,MD Yellow,2 
+dmc,744,Pale Yellow,2 
+dmc,745,LT Pale Yellow,2
+dmc,746,Off White,2 
+dmc,747,V LT Sky Blue,2 
+dmc,754,LT Peach,2 
+dmc,758,V LT Terra Cotta,2 
+dmc,760,Salmon,2
+dmc,761,LT Salmon,2 
+dmc,762,V LT Pearl Gray,2 
+dmc,772,V LT Yellow Green,2 
+dmc,775,V LT Baby Blue,2 
+dmc,776,MD Pink,2 
+dmc,777,V DK Raspberry,2 
+dmc,778,V LT Antique Mauve,2 
+dmc,779,DK Cocoa,2 
+dmc,780,Ultra V DK Topaz,2 
+dmc,781,V DK Topaz,2 
+dmc,782,DK Topaz,2 
+dmc,783,MD Topaz,2 
+dmc,791,V DK Cornflower Blue,2 
+dmc,792,DK Cornflower Blue,2 
+dmc,793,MD Cornflower Blue,2 
+dmc,794,LT Cornflower Blue,2 
+dmc,796,DK Royal Blue,2 
+dmc,797,Royal Blue,2 
+dmc,798,DK Delft Blue,2 
+dmc,799,MD Delft Blue,2 
+dmc,800,Pale Delft Blue,2 
+dmc,801,DK Coffee Brown,2 
+dmc,803,Ultra V DK Baby Blue,2 
+dmc,806,DK Peacock Blue,2 
+dmc,807,Peacock Blue,2 
+dmc,809,Delft Blue,2 
+dmc,813,LT Blue,2 
+dmc,814,DK Garnet,2 
+dmc,815,MD Garnet,2 
+dmc,816,Garnet,2 
+dmc,817,V DK Coral Red,2 
+dmc,818,Baby Pink,2 
+dmc,819,LT Baby Pink,2 
+dmc,820,V DK Royal Blue,2 
+dmc,822,LT Beige Gray,2 
+dmc,823,DK Navy Blue,2 
+dmc,824,V DK Blue,2 
+dmc,825,DK Blue,2 
+dmc,826,MD Blue,2 
+dmc,827,V LT Blue,2 
+dmc,828,Ultra V V LT Blue,2 
+dmc,829,V DK Golden Olive,2
+dmc,830,DK Golden Olive,2 
+dmc,831,MD Golden Olive,2 
+dmc,832,Golden Olive,2 
+dmc,833,LT Golden Olive,2 
+dmc,834,V LT Golden Olive,2 
+dmc,838,V DK Beige Brown,2 
+dmc,839,DK Beige Brown,2
+dmc,840,MD Beige Brown,2
+dmc,841,LT Beige Brown,2
+dmc,842,V LT Beige Brown,2
+dmc,844,Ultra DK Beaver Gray,2
+dmc,869,V DK Hazelnut Brown,2
+dmc,890,Ultra DK Pistachio Green,2
+dmc,891,DK Carnation,2
+dmc,892,MD Carnation,2
+dmc,893,LT Carnation,2
+dmc,894,V LT Carnation,2
+dmc,895,V DK Hunter Green,2
+dmc,898,V DK Coffee Brown,2
+dmc,899,MD Rose,3
+dmc,900,DK Burnt Orange,3
+dmc,902,V DK Garnet,3
+dmc,904,V DK Parrot Green,3
+dmc,905,DK Parrot Green,3
+dmc,906,MD Parrot Green,3
+dmc,907,LT Parrot Green,3
+dmc,909,V DK Emerald Green,3
+dmc,910,DK Emerald Green,3
+dmc,911,MD Emerald Green,3
+dmc,912,LT Emerald Green,3
+dmc,913,MD Nile Green,3
+dmc,915,DK Plum,3
+dmc,917,MD Plum,3
+dmc,918,DK Red Copper,3
+dmc,919,Red Copper,3
+dmc,920,MD Copper,3
+dmc,921,Copper,3
+dmc,922,LT Copper,3
+dmc,924,V DK Gray Green,3
+dmc,926,MD Gray Green,3
+dmc,927,LT Gray Green,3
+dmc,928,V LT Gray Green,3
+dmc,930,DK Antique Blue,3
+dmc,931,MD Antique Blue,3
+dmc,932,LT Antique Blue,3
+dmc,934,Black Avocado Green,3
+dmc,935,DK Avocado Green,3
+dmc,936,V DK Avocado Green,3
+dmc,937,MD Avocado Green,3
+dmc,938,Ultra DK Coffee Brown,3
+dmc,939,V DK Navy Blue,3
+dmc,943,MD Aquamarine,3 
+dmc,945,Tawny,3 
+dmc,946,MD Burnt Orange,3 
+dmc,947,Burnt Orange,3
+dmc,948,V LT Peach,3 
+dmc,950,LT Desert Sand,3 
+dmc,951,LT Tawny,3 
+dmc,954,Nile Green,3 
+dmc,955,LT Nile Green,3 
+dmc,956,Geranium,3 
+dmc,957,Pale Geranium,3 
+dmc,958,DK Seagreen,3 
+dmc,959,MD Seagreen,3 
+dmc,961,DK Dusty Rose,3 
+dmc,962,MD Dusty Rose,3 
+dmc,963,Ultra V LT Dusty Rose,3 
+dmc,964,LT Seagreen,3 
+dmc,966,MD Baby Green,3 
+dmc,967,V LT Apricot,3 
+dmc,970,LT Pumpkin,3 
+dmc,971,Pumpkin,3 
+dmc,972,Deep Canary,3 
+dmc,973,Bright Canary,3 
+dmc,975,DK Golden Brown,3 
+dmc,976,MD Golden Brown,3 
+dmc,977,LT Golden Brown,3 
+dmc,986,V DK Forest Green,3 
+dmc,987,DK Forest Green,3 
+dmc,988,MD Forest Green,3 
+dmc,989,Forest Green,3 
+dmc,991,DK Aquamarine,3 
+dmc,992,LT Aquamarine,3 
+dmc,993,V LT Aquamarine,3 
+dmc,995,DK Electric Blue,3 
+dmc,996,MD Electric Blue,3 
+dmc,3011,DK Khaki Green,3 
+dmc,3012,MD Khaki Green,3 
+dmc,3013,LT Khaki Green,3 
+dmc,3021,V DK Brown Gray,3 
+dmc,3022,MD Brown Gray,3 
+dmc,3023,LT Brown Gray,3 
+dmc,3024,V LT Brown Gray,3 
+dmc,3031,V DK Mocha Brown,3 
+dmc,3032,MD Mocha Brown,3 
+dmc,3033,V LT Mocha Brown,3 
+dmc,3041,MD Antique Violet,3 
+dmc,3042,LT Antique Violet,3 
+dmc,3045,DK Yellow Beige,3 
+dmc,3046,MD Yellow Beige,4 
+dmc,3047,LT Yellow Beige,4 
+dmc,3051,DK Green Gray,4 
+dmc,3052,MD Green Gray,4 
+dmc,3053,Green Gray,4 
+dmc,3064,Desert Sand,4 
+dmc,3072,V LT Beaver Gray,4 
+dmc,3078,V LT Golden Yellow,4 
+dmc,3325,LT Baby Blue,4 
+dmc,3326,LT Rose,4 
+dmc,3328,DK Salmon,4 
+dmc,3340,MD Apricot,4 
+dmc,3341,Apricot,4 
+dmc,3345,DK Hunter Green,4 
+dmc,3346,Hunter Green,4 
+dmc,3347,MD Yellow Green,4 
+dmc,3348,LT Yellow Green,4 
+dmc,3350,Ultra DK Dusty Rose,4 
+dmc,3354,LT Dusty Rose,4 
+dmc,3362,DK Pine Green,4 
+dmc,3363,MD Pine Green,4 
+dmc,3364,Pine Green,4 
+dmc,3371,Black Brown,4 
+dmc,3607,LT Plum,4 
+dmc,3608,V LT Plum,4 
+dmc,3609,Ultra LT Plum,4 
+dmc,3685,V DK Mauve,4 
+dmc,3687,Mauve,4 
+dmc,3688,MD Mauve,4 
+dmc,3689,LT Mauve,4 
+dmc,3705,DK Melon,4 
+dmc,3706,MD Melon,4 
+dmc,3708,LT Melon,4 
+dmc,3712,MD Salmon,4
+dmc,3713,V LT Salmon,4 
+dmc,3716,V LT Dusty Rose,4 
+dmc,3721,DK Shell Pink,4 
+dmc,3722,MD Shell Pink,4 
+dmc,3726,DK Antique Mauve,4 
+dmc,3727,LT Antique Mauve,4 
+dmc,3731,V DK Dusty Rose,4 
+dmc,3733,Dusty Rose,4 
+dmc,3740,DK Antique Violet,4
+dmc,3743,V LT Antique Violet,4
+dmc,3746,DK Blue Violet,4
+dmc,3747,V LT Blue Violet,4
+dmc,3750,V DK Antique Blue,4
+dmc,3752,V LT Antique Blue,4
+dmc,3753,Ultra V LT Antique Blue,4
+dmc,3755,Baby Blue,4
+dmc,3756,Ultra V LT Baby Blue,4
+dmc,3760,MD Wedgewood,4
+dmc,3761,LT Sky Blue,4
+dmc,3765,V DK Peacock Blue,4
+dmc,3766,LT Peacock Blue,4
+dmc,3768,DK Gray Green,4
+dmc,3770,V LT Tawny,4
+dmc,3771,Ultra V LT Terra Cotta,4
+dmc,3772,V DK Desert Sand,4
+dmc,3773,MD Desert Sand,4
+dmc,3774,V LT Desert Sand,4
+dmc,3776,LT Mahogany,4
+dmc,3777,V DK Terra Cotta,4
+dmc,3778,LT Terra Cotta,4
+dmc,3779,Ultra V LT Terra Cotta,4
+dmc,3781,DK Mocha Brown,4
+dmc,3782,LT Mocha Brown,4
+dmc,3787,DK Brown Gray,4
+dmc,3790,Ultra DK Beige Gray,4
+dmc,3799,V DK Pewter Gray,4
+dmc,3801,V DK Melon,4
+dmc,3802,V DK Antique Mauve,4
+dmc,3803,DK Mauve,4
+dmc,3804,DK Cyclamen Pink,4
+dmc,3805,Cyclamen Pink,4
+dmc,3806,LT Cyclamen Pink,4
+dmc,3807,Cornflower Blue,4
+dmc,3808,Ultra V DK Turquoise,4
+dmc,3809,V DK Turquoise,4
+dmc,3810,DK Turquoise,5
+dmc,3811,V LT Turquoise,5
+dmc,3812,V DK Seagreen,5
+dmc,3813,LT Blue Green,5
+dmc,3814,Aquamarine,5
+dmc,3815,DK Celadon Green,5
+dmc,3816,Celadon Green,5
+dmc,3817,LT Celadon Green,5
+dmc,3818,Ultra V DK Emerald Greene,5
+dmc,3819,LT Moss Green,5 
+dmc,3820,DK Straw,5 
+dmc,3821,Straw,5 
+dmc,3822,LT Straw,5 
+dmc,3823,Ultra Pale Yellow,5 
+dmc,3824,LT Apricot,5 
+dmc,3825,Pale Pumpkin,5 
+dmc,3826,Golden Brown,5 
+dmc,3827,Pale Golden Brown,5 
+dmc,3828,Hazelnut Brown,5
+dmc,3829,V DK Old Gold,5 
+dmc,3830,Terra Cotta,5
+dmc,3831,DK Raspberry,5 
+dmc,3832,MD Raspberry,5 
+dmc,3833,LT Raspberry,5 
+dmc,3834,DK Grape,5
+dmc,3835,MD Grape,5 
+dmc,3836,LT Grape,5 
+dmc,3837,Ultra DK Lavender,5 
+dmc,3838,DK Lavender Blue,5 
+dmc,3839,MD Lavender Blue,5 
+dmc,3840,LT Lavender Blue,5 
+dmc,3841,Pale Baby Blue,5 
+dmc,3842,DK Wedgwood,5 
+dmc,3843,Electric Blue,5 
+dmc,3844,DK Bright Turquoise,5 
+dmc,3845,MD Bright Turquoise,5
+dmc,3846,LT Bright Turquoise,5 
+dmc,3847,DK Teal Green,5 
+dmc,3848,MD Teal Green,5 
+dmc,3849,LT Teal Green,5 
+dmc,3850,DK Bright Green,5
+dmc,3851,LT Bright Green,5
+dmc,3852,V DK Straw,5
+dmc,3853,DK Autumn Gold,5
+dmc,3854,MD Autumn Gold,5
+dmc,3855,LT Autumn Gold,5
+dmc,3856,Ultra V LT Mahogany,5
+dmc,3857,DK Rosewood,5
+dmc,3858,MD Rosewood,5
+dmc,3859,LT Rosewood,5
+dmc,3860,Cocoa,5
+dmc,3861,LT Cocoa,5
+dmc,3862,DK Mocha Beige,5
+dmc,3863,MD Mocha Beige,5
+dmc,3864,LT Mocha Beige,5
+dmc,3865,Winter White,5
+dmc,3866,Ultra V LT Mocha Brown,5
+dmc,3880,NODESC,5
+dmc,3881,NODESC,5
+dmc,3882,NODESC,5
+dmc,3883,NODESC,5
+dmc,3884,NODESC,5
+dmc,3885,NODESC,5
+dmc,3886,NODESC,5
+dmc,3887,NODESC,5
+dmc,3888,NODESC,5
+dmc,3889,NODESC,5
+dmc,3890,NODESC,5
+dmc,3891,NODESC,5
+dmc,3892,NODESC,5
+dmc,3893,NODESC,5
+dmc,3894,NODESC,5
+dmc,3895,NODESC,5
+dmc,48,Variegated Baby Pink,8
+dmc,51,Variegated Burnt Orange,8
+dmc,52,Variegated Violet,8
+dmc,53,Variegated Steel Gray,8
+dmc,57,Variegated Red,8
+dmc,61,Variegated Topaz,8
+dmc,62,Variegated Coral Light,8
+dmc,67,Variegated Baby Blue,8
+dmc,69,Variegated Terra Cotta,8
+dmc,75,Variegated Raspberry,8
+dmc,90,Variegated Yellow,8
+dmc,91,Variegated Turquoise,8
+dmc,92,Variegated Avocado,8
+dmc,93,Variegated Cornflower Blue,8
+dmc,94,Variegated Khaki Green,8
+dmc,95,Variegated Violet Med,8
+dmc,99,Variegated Mauve,8
+dmc,101,Variegated Spring Green,8
+dmc,102,Variegated Violet Dark,8
+dmc,103,Variegated Royal Blue,8
+dmc,104,Variegated Lemon,8
+dmc,105,Variegated Tan/Brown,8
+dmc,106,Variegated Coral,8
+dmc,107,Variegated Rose,8
+dmc,108,Variegated Yellow Orange,8
+dmc,111,Variegated Mustard,8
+dmc,112,Variegated Carnation,8
+dmc,114,Variegated Lime Green,8
+dmc,115,Variegated Garnet,8
+dmc,116,Variegated Plum,8
+dmc,121,Variegated Delft Blue,8
+dmc,122,Variegated Olive Green,8
+dmc,123,Variegated Teal,8
+dmc,125,Variegated Seafoam Green,8
+dmc,126,Variegated Violet Light,8
+dmc,S211,NODESC,9
+dmc,S307,NODESC,9
+dmc,S310,NODESC,9
+dmc,S321,NODESC,9
+dmc,S326,NODESC,9
+dmc,S336,NODESC,9
+dmc,S351,NODESC,9
+dmc,S352,NODESC,9
+dmc,S367,NODESC,9
+dmc,S414,NODESC,9
+dmc,S415,NODESC,9
+dmc,S434,NODESC,9
+dmc,S469,NODESC,9
+dmc,S471,NODESC,9
+dmc,S472,NODESC,9
+dmc,S501,NODESC,9
+dmc,S504,NODESC,9
+dmc,S550,NODESC,9
+dmc,S552,NODESC,9
+dmc,S553,NODESC,9
+dmc,S601,NODESC,9
+dmc,S602,NODESC,9
+dmc,S666,NODESC,9
+dmc,S676,NODESC,9
+dmc,S700,NODESC,9
+dmc,S702,NODESC,9
+dmc,S712,NODESC,9
+dmc,S726,NODESC,9
+dmc,S738,NODESC,9
+dmc,S739,NODESC,9
+dmc,S741,NODESC,9
+dmc,S744,NODESC,9
+dmc,S745,NODESC,9
+dmc,S762,NODESC,9
+dmc,S776,NODESC,9
+dmc,S797,NODESC,9
+dmc,S798,NODESC,9
+dmc,S799,NODESC,9
+dmc,S800,NODESC,9
+dmc,S818,NODESC,9
+dmc,S820,NODESC,9
+dmc,S841,NODESC,9
+dmc,S898,NODESC,9
+dmc,S899,NODESC,9
+dmc,S909,NODESC,9
+dmc,S915,NODESC,9
+dmc,S931,NODESC,9
+dmc,S932,NODESC,9
+dmc,S943,NODESC,9
+dmc,S959,NODESC,9
+dmc,S964,NODESC,9
+dmc,S976,NODESC,9
+dmc,S991,NODESC,9
+dmc,S995,NODESC,9
+dmc,S3371,NODESC,9
+dmc,S3607,NODESC,9
+dmc,S3685,NODESC,9
+dmc,S3820,NODESC,9
+dmc,S5200,NODESC,9
